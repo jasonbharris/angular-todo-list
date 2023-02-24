@@ -9,3 +9,4 @@ In order to view the project as it is at the moment you are visiting is to:
     - Run npm run start or yarn start or just ng serve
 
 - The application has been cleaned up and ready to code
+- Create the basic ui
